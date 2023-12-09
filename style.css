@@ -169,3 +169,61 @@ h3 {
     background-color: rgba(144, 88, 88, 0.5);
 
 }
+
+
+/* Footer. */
+
+
+.footer-area {
+    display: flex;
+    justify-content: space-evenly;
+
+    padding-top: 50px;
+
+    font-weight: bold;
+
+    background-color: aqua;
+    height: 300px;
+
+}
+
+.footer-one {
+    height: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+.footer-two {
+    height: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.footer-three {
+    height: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.footer-four {
+    height: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+.coppyright {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: aqua;
+    padding-bottom: 20px;
+
+    padding-top: 10px;
+}
+
+.icon {
+    font-size: 25px;
+
+
+}
